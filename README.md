@@ -1,5 +1,5 @@
 # TourismAgency
 
-![](C:\Users\kemal\Desktop\TourismAgency\UML.png)
+![](UML.png)
 
-![](C:\Users\kemal\Desktop\TourismAgency\ViewDesign.png)
+![](ViewDesign.png)
