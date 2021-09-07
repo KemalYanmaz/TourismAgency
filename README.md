@@ -1,5 +1,5 @@
 # TourismAgency
 
-![](UML diagram.png)
+![](UML_diagram.png)
 
 ![](ViewDesign.png)
